@@ -6,6 +6,8 @@ const CONFIG = {
     role: "AI Engineer/Researcher",
     bio: "Interesed in Semantic Segmentation, Medical Imaging, MLOps.",
     email: "alicevravo@gmail.com",
+    instagram : "",
+    linkedin : "",
     github: "chriss006"
   },
   projects: [
