@@ -7,7 +7,6 @@ const CONFIG = {
     bio: "Interesed in Semantic Segmentation, Medical Imaging, MLOps.",
     email: "alicevravo@gmail.com",
     linkedin: "luachriss006",
-    github: "chriss006",
     instagram: "",
   },
   projects: [
